@@ -99,34 +99,6 @@ const Forums = ({navigation}) => {
     );
   }
 
-  // const data = [
-  //   {title: 'Gastro private', description: 's', type: 'Private', members: 1},
-  //   {
-  //     title: 'Friend2 private gastro',
-  //     description: 'Sample',
-  //     type: 'Private',
-  //     members: 1,
-  //   },
-  //   {
-  //     title: 'gastro private forum',
-  //     description: 'Sample',
-  //     type: 'Private',
-  //     members: 2,
-  //   },
-  //   {
-  //     title: 'Gastro public forum',
-  //     description: 'sam',
-  //     type: 'Public',
-  //     members: 1,
-  //   },
-  //   {
-  //     title: 'Gastro public forum',
-  //     description: 'sample',
-  //     type: 'Public',
-  //     members: 1,
-  //   },
-  // ];
-
   return (
     <View style={styles.container}>
       <View style={styles.searchContainer}>
